@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - KeychainSwift (9.0.2)
+  - Kingfisher (4.10.1)
+  - Masonry (1.1.0)
+  - MJRefresh (3.1.15.7)
+  - ObjectMapper (3.4.2)
+  - ReachabilitySwift (3)
+  - Realm (2.10.2):
+    - Realm/Headers (= 2.10.2)
+  - Realm/Headers (2.10.2)
+  - RealmSwift (2.10.2):
+    - Realm (= 2.10.2)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.0)
+  - KeychainSwift (~> 9.0.0)
+  - Kingfisher
+  - Masonry
+  - MJRefresh
+  - ReachabilitySwift (~> 3)
+  - RealmSwift (~> 2.10.0)
+  - SwiftyJSON (~> 3.1.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - KeychainSwift
+    - Kingfisher
+    - Masonry
+    - MJRefresh
+    - ObjectMapper
+    - ReachabilitySwift
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  KeychainSwift: 3ab1d428d0dbff59cd056f1d0bfc640b36c2b081
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  Realm: 0ef72b837fb67e9f4b098bac771ddd72c7fdbb69
+  RealmSwift: 07a9ae0505091eda6b2ee7c190c3786d6e90a7b0
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 074d6ac3dcaad703cf5c5aa961eaec577e23611c
+
+COCOAPODS: 1.5.3
