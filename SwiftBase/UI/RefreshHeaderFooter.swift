@@ -9,6 +9,7 @@
 import Foundation
 import MJRefresh
 
+
 class RefreshHeader: MJRefreshNormalHeader {
     static func headerWithBlock(_ block: @escaping MJRefreshComponentRefreshingBlock) -> RefreshHeader? {
         let header = RefreshHeader(refreshingBlock: block)

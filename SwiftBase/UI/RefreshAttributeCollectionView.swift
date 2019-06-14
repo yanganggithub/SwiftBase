@@ -9,7 +9,6 @@
 import UIKit
 import OCBase
 
-
 protocol RefreshAttributeDelegate: class {
     func collectionView(collectionView: RefreshAttributeCollectionView, refreshDataWithType refreshType: RefreshAttributeCollectionView.RefreshType,params:[String:Any])
 }

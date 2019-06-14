@@ -1,0 +1,4 @@
+module OCBase [system] {
+       header "OCBaseBridge.h"
+     export *
+}
